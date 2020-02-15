@@ -1,0 +1,17 @@
+// custom colors
+$custom-blue: #3c70f5;
+$custom-red: #cb1a34;
+$custom-green: #46e1a5;
+
+// main
+h1 {
+	color: $custom-blue;
+}
+
+h2 {
+	color: $custom-red;
+}
+
+p {
+	color: $custom-green;
+}
